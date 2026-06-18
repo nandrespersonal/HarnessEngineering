@@ -1,0 +1,13 @@
+Title,Track,Priority,Status,Artifact Type
+"Create Harness Engineering README","Manifesto / Narrative","P0","Drafted","Doc"
+"Convert article into project manifesto","Manifesto / Narrative","P0","Drafted","Doc"
+"Define daily worker operating loop","Daily Worker Playbook","P0","Drafted","Doc"
+"Create meeting/thread summary template","Harness Patterns","P1","Drafted","Template"
+"Create AI-assisted investigation template","Harness Patterns","P1","Drafted","Template"
+"Create human-stays-driver guidance","Governance / Guardrails","P1","Drafted","Governance"
+"Define private eval categories","Private Evals","P1","Drafted","Eval"
+"Design first pilot workflow","Adoption Experiments","P2","Not started","Experiment"
+"Capture lessons-learned format","Harness Patterns","P2","Drafted","Template"
+"Build glossary","Manifesto / Narrative","P2","Not started","Doc"
+"Define tool roles for Copilot, CoWork, Scout, and GitHub","Tooling & Workflow","P2","Not started","Doc"
+"Create project board field recommendations","Tooling & Workflow","P2","Not started","Doc"
